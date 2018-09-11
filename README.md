@@ -1,4 +1,4 @@
-# Deep Inner Residual Neural Network with Dilated Convolutional Skip Connections : Traffic Sign Classification
+# Devised Architecture "Total Recall Net" : Traffic Sign Classification
 
 The paper is available at 
 # https://arxiv.org/abs/1808.10524
