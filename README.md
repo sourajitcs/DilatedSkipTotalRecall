@@ -14,3 +14,6 @@ If interested to cite this work, you may wanna follow the following bibtex:
   year={2018}
 }
 
+To follow further deep learning ressearch papers from the authors of this paper:
+(1)https://scholar.google.com/citations?user=f8wIuGcAAAAJ&hl=en
+(2)https://scholar.google.com/citations?user=VPbqTxEAAAAJ&hl=en
