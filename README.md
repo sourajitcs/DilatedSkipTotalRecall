@@ -33,5 +33,7 @@ https://www.researchgate.net/publication/327417332_Total_Recall_Understanding_Tr
 ```
 
 To follow further deep learning ressearch works from the authors of this paper:
-(1)https://scholar.google.com/citations?user=f8wIuGcAAAAJ&hl=en
-(2)https://scholar.google.com/citations?user=VPbqTxEAAAAJ&hl=en
+
+- [Sourajit Saha](https://scholar.google.com/citations?user=f8wIuGcAAAAJ&hl=en)
+- [Sharif Amit Kamran](https://scholar.google.com/citations?user=VPbqTxEAAAAJ&hl=en)
+- [Dr. Ali Shihab Sabbir](https://scholar.google.com/citations?user=hDN5mT4AAAAJ&hl=en)
