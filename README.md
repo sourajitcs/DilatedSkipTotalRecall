@@ -3,7 +3,7 @@
 Our paper has been accepted to 2018 21st International Conference of Computer and Information Technology (ICCIT). 
 
 
-### IEEE Digital Xplore Library
+### IEEE Xplore Digital Library
 ```
 https://ieeexplore.ieee.org/document/8631925
 ```
