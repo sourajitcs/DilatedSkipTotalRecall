@@ -5,7 +5,7 @@ Our paper has been accepted to 2018 21st International Conference of Computer an
 
 ### IEEE Xplore Digital Library
 ```
-- [https://ieeexplore.ieee.org/document/8631925](https://ieeexplore.ieee.org/document/8631925)
+https://ieeexplore.ieee.org/document/8631925
 ```
 
 ### Arxiv Pre-print
